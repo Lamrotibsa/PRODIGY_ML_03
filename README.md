@@ -37,7 +37,7 @@ This project involves classifying images of cats and dogs using Support Vector M
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Lamrotibsa/PRODIGY_ML_01.git
+   git clone https://github.com/Lamrotibsa/PRODIGY_ML_03.git
    ```
 
 2. **Install Dependencies:**
